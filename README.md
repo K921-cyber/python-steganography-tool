@@ -1,11 +1,4 @@
-# 🖼️ Python LSB Steganography Tool
 
-
----
-
-## ⚙️ Features
-
-* **Embed**: Hides a text message inside a carrier PNG image.
 * **Extract**: Recovers a hidden text message from a stego-image.
 * **Simple & Lightweight**: Uses only the Pillow library for image manipulation.
 
