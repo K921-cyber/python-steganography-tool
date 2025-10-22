@@ -1,11 +1,5 @@
 # 🖼️ Python LSB Steganography Tool
 
-A simple command-line tool written in Python to hide and extract secret text messages within PNG images using the Least Significant Bit (LSB) steganography technique.
-
-##  Demo
-
-
-*(Pro-tip: Use a tool like `asciinema` or `Peek` to create a GIF of your tool in action and embed it here.)*
 
 ---
 
