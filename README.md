@@ -1,18 +1,4 @@
 
-* **Extract**: Recovers a hidden text message from a stego-image.
-* **Simple & Lightweight**: Uses only the Pillow library for image manipulation.
-
----
-
-## 📋 Prerequisites
-
-* Python 3.x
-* Pillow library
-
----
-
-## 🚀 Installation & Usage
-
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/YOUR_USERNAME/python-steganography-tool.git](https://github.com/YOUR_USERNAME/python-steganography-tool.git)
