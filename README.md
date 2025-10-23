@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python" />
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
   <img src="https://img.shields.io/badge/Status-Stable-success" />
   <img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/python-steganography-tool?logo=github" />
 </p>
