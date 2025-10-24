@@ -72,5 +72,5 @@ Pixel before: 10110010 → 178
 Pixel after:  10110011 → 179  
 Hidden bit:   1
 ```
----
+
 ## 🧬 Result: The image looks the same — but secretly contains data!
