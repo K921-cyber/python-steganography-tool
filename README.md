@@ -44,26 +44,26 @@ Make sure you have these installed before running the tool:
 
 ## 🚀 Installation & Usage
 ---
-1️⃣ Clone the Repository
+## 1️⃣ Clone the Repository
 ```
 git clone https://github.com/YOUR_USERNAME/python-steganography-tool.git
 cd python-steganography-tool
 
 ```
-2️⃣ Embed a Secret Message
+## 2️⃣ Embed a Secret Message
 ```
 python embed.py -i input.png -o output.png -m "This is a hidden message!"
 ```
 
-3️⃣ Extract the Hidden Message
+## 3️⃣ Extract the Hidden Message
 ```
 python extract.py -i output.png
 ```
 
-💡 Tip: Use PNG images only (lossless format ensures message integrity).
+## 💡 Tip: Use PNG images only (lossless format ensures message integrity).
 
 ---
-🧠 How It Works
+## 🧠 How It Works
 
 LSB (Least Significant Bit) steganography hides message bits in the lowest binary digits of image pixels —
 a tiny change invisible to the human eye but detectable through code.
