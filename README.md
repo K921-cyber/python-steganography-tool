@@ -40,3 +40,24 @@ Make sure you have these installed before running the tool:
 ```bash
 🐍 Python 3.x
 🖼️ Pillow → pip install pillow
+```
+
+## 🚀 Installation & Usage
+--
+1️⃣ Clone the Repository
+```
+git clone https://github.com/YOUR_USERNAME/python-steganography-tool.git
+cd python-steganography-tool
+
+```
+2️⃣ Embed a Secret Message
+```
+python embed.py -i input.png -o output.png -m "This is a hidden message!"
+```
+
+3️⃣ Extract the Hidden Message
+```
+python extract.py -i output.png
+```
+
+💡 Tip: Use PNG images only (lossless format ensures message integrity).
