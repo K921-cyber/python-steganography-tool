@@ -94,3 +94,19 @@ $ python embed.py -i input.png -o secret.png -m "Steganography is cool!"
 $ python extract.py -i secret.png
 💬 Hidden Message: "Steganography is cool!"
 ~~~
+## 🌈 Why Use This?
+
+✔️ Perfect for Cybersecurity learners
+✔️ Great for Python practice projects
+✔️ Ideal for College mini-projects or GitHub portfolios
+✔️ Demonstrates real-world data hiding techniques
+
+## 🧾 License
+
+This project is licensed under the MIT License — see the LICENSE
+ file for details.
+
+<p align="center"> <img src="https://forthebadge.com/images/badges/made-with-python.svg" height="30"/> <img src="https://forthebadge.com/images/badges/open-source.svg" height="30"/> <img src="https://forthebadge.com/images/badges/built-with-love.svg" height="30"/> </p>
+💬 Connect With Me
+<p align="center"> <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
+<h3 align="center">✨ Hide Smart. Reveal Smarter. ✨</h3> ```
