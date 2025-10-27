@@ -42,3 +42,51 @@ Before running the tool, ensure the following are installed:
 ```bash
 🐍 Python 3.x
 🖼️ Pillow → pip install pillow
+```
+
+## 🚀 Installation & Usage
+
+## 🧭 1️⃣ Clone the Repository
+```
+git clone https://github.com/YOUR_USERNAME/python-steganography-tool.git
+cd python-steganography-tool
+```
+
+## ✨ 2️⃣ Embed a Secret Message
+```
+python embed.py -i input.png -o output.png -m "This is a hidden message!"
+```
+
+
+## 🔓 3️⃣ Extract the Hidden Message
+```
+python extract.py -i output.png
+```
+
+## 🧠 How It Works
+
+The Least Significant Bit (LSB) technique hides message bits in the lowest binary digits of an image's pixel values.
+This tiny modification is imperceptible to the human eye 👁️ — yet perfectly retrievable by your code.
+
+Pixel before: 10110010 → 178  
+Pixel after:  10110011 → 179  
+Hidden bit:   1
+
+
+➡️ Just like that, a bit of your message hides inside the image without any visible change!
+
+<p align="center"> <img src="https://cdn.dribbble.com/users/341264/screenshots/15842067/media/bc77cb4cf7e74208f5b706cbd35b536f.gif" width="500" /> </p>
+🧩 Project Structure
+📦 python-steganography-tool
+ ┣ 📜 embed.py          → Script to embed (encode) messages
+ ┣ 📜 extract.py        → Script to extract (decode) messages
+ ┣ 📂 images/           → Input and output image samples
+ ┣ 📜 README.md         → You’re here!
+ ┗ 📜 LICENSE           → Open-source under MIT
+
+🧑‍💻 Example Output
+$ python embed.py -i input.png -o secret.png -m "Steganography is cool!"
+✅ Message embedded successfully in secret.png
+
+$ python extract.py -i secret.png
+💬 Hidden Message: "Steganography is cool!"
