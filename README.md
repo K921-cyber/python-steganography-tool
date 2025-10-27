@@ -85,8 +85,12 @@ Hidden bit:   1
  ┗ 📜 LICENSE           → Open-source under MIT
 ~~~ 
 🧑‍💻 Example Output
+~~~
 $ python embed.py -i input.png -o secret.png -m "Steganography is cool!"
 ✅ Message embedded successfully in secret.png
+~~~
 
+~~~
 $ python extract.py -i secret.png
 💬 Hidden Message: "Steganography is cool!"
+~~~
