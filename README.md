@@ -73,8 +73,8 @@ Pixel after:  10110011 → 179
 Hidden bit:   1
 
 
-➡️ Just like that, a bit of your message hides inside the image without any visible change!
-
+## ➡️ Just like that, a bit of your message hides inside the image without any visible change!
+~~~
 <p align="center"> <img src="https://cdn.dribbble.com/users/341264/screenshots/15842067/media/bc77cb4cf7e74208f5b706cbd35b536f.gif" width="500" /> </p>
 🧩 Project Structure
 📦 python-steganography-tool
@@ -83,7 +83,7 @@ Hidden bit:   1
  ┣ 📂 images/           → Input and output image samples
  ┣ 📜 README.md         → You’re here!
  ┗ 📜 LICENSE           → Open-source under MIT
-
+~~~ 
 🧑‍💻 Example Output
 $ python embed.py -i input.png -o secret.png -m "Steganography is cool!"
 ✅ Message embedded successfully in secret.png
