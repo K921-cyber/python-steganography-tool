@@ -10,7 +10,7 @@ Basic image LSB embedding
 
 Encode & decode support
 
-📌 Phase 2 — Security Core
+## 📌 Phase 2 — Security Core
 
 AES / ChaCha20 encryption
 
