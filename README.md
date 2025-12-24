@@ -56,7 +56,17 @@ That's a fantastic idea. Creating a project that teaches others is one of the be
        * The "Database Result" shows: Login Failed. The lesson is complete.
 
   This project is a powerful educational tool and a fantastic resume piece, showing you can not only understand a vulnerability but also explain it to others.
+```
+ To run the project:
+   1. Start the backend:
+      cd /home/kabir/.gemini/tmp/cb3e0767f18b1f9dd20e91d09dd495097b9902dce5f7e004cc99d9e7a3919373/sql_injection_playground/backend
+      source venv/bin/activate
+      python app.py
+   2. Open the frontend:
+      Open /home/kabir/.gemini/tmp/cb3e0767f18b1f9dd20e91d09dd495097b9902dce5f7e004cc99d9e7a3919373/sql_injection_playground/frontend/index.html in your web browser.
 
+
+```
 ```
 ## 📌 Phase 1 — Foundation
 
