@@ -30,7 +30,7 @@
 
  Performance optimization
 
-##📌 Phase 4 — Advanced Features
+## 📌 Phase 4 — Advanced Features
 
  Adaptive pixel selection
 
