@@ -1,4 +1,4 @@
-📌 Phase 1 — Foundation
+## 📌 Phase 1 — Foundation
 
  Research steganography techniques
 
@@ -10,7 +10,7 @@
 
  Encode & decode support
 
-📌 Phase 2 — Security Core
+## 📌 Phase 2 — Security Core
 
  AES / ChaCha20 encryption
 
@@ -20,7 +20,7 @@
 
  Error handling & validation
 
-📌 Phase 3 — Rust Engine
+## 📌 Phase 3 — Rust Engine
 
  Rust core stego engine
 
@@ -30,7 +30,7 @@
 
  Performance optimization
 
-📌 Phase 4 — Advanced Features
+##📌 Phase 4 — Advanced Features
 
  Adaptive pixel selection
 
@@ -40,7 +40,7 @@
 
  Stego resistance improvements
 
-📌 Phase 5 — UX & Expansion
+## 📌 Phase 5 — UX & Expansion
 
  Web UI (optional)
 
@@ -50,7 +50,7 @@
 
  Documentation & examples
 
-📌 Phase 6 — Release
+## 📌 Phase 6 — Release
 
  CLI documentation
 
