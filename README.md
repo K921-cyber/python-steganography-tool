@@ -59,4 +59,3 @@
  Demo screenshots
 
  GitHub release v1.0
-
